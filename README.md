@@ -1,5 +1,5 @@
 # Det-SAMReg
-Please install MMDetection first.
+Please install MMDetection first.https://github.com/open-mmlab/mmdetection
 
 For detailed environment configuration, please refer to environment.yml.
 
